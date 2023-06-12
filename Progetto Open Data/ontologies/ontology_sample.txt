@@ -1,0 +1,48 @@
+@base <http://stv_open_data_project.it/resource/> .
+@prefix dbo: <http://stv_open_data_project.it/ontology/> .
+@prefix dbpo: <http://dbpedia.org/resource/> .
+@prefix xsd: <http://www.w3c.org/2001/XMLSchema#> .
+
+//RFDS SCHEMAS
+
+<Farmacia> dbpo:"Sicilia" 	[ 
+				dbo:municipality dbpo:"comune_siciliano" ;
+	   		    	dbo:CAP "CAP_del_comune" ;
+			    	dbo:name "nome" ;	   		    
+			    	dbo:street "via e indirizzo" ;
+	   		    	dbo:latitude "12.3456789"^^xsd:double ;
+	   		    	dbo:longitude "98.7654321"^^xsd:double ; 
+			  	].
+
+<Parafarmacia> dbpo:"Sicilia" 	[ 
+				dbo:municipality dbpo:"comune_siciliano" ;
+	   		    	dbo:CAP "CAP_del_comune" ;
+			    	dbo:name "nome" ;	   		    
+			    	dbo:street "via e indirizzo" ;
+	   		    	dbo:latitude "12.3456789"^^xsd:double ;
+	   		    	dbo:longitude "98.7654321"^^xsd:double ; 
+			  	].
+
+//Negli ASP Pubblici mancano i comuni, latitudine e longitudine
+<ASP_Pubblica> dbpo:"Sicilia" 	[ 
+				dbo:municipality dbpo:"comune_siciliano" ;
+	   		    	dbo:CAP "CAP_del_comune" ;
+			    	dbo:name "nome" ;	
+			    	dbo:telephone "111222333" ;	   		    
+			    	dbo:street "via e indirizzo" ;
+			    	dbo:assistance "tipo di assistenza" ;
+	   		    	dbo:latitude "12.3456789"^^xsd:double ;
+	   		    	dbo:longitude "98.7654321"^^xsd:double ; 
+			  	].
+
+//Negli ASP Privati mancano i CAP, latitudine e longitudine
+<ASP_Privata> dbpo:"Sicilia" 	[ 
+				dbo:municipality dbpo:"comune_siciliano" ;
+				dbo:city dbpo:"città" ;
+	   		    	dbo:CAP "CAP_del_comune" ;
+			    	dbo:name "nome" ;	   		    
+			    	dbo:street "via e indirizzo" ;
+			    	dbo:activity "tipo di assistenza" ;
+	   		    	dbo:latitude "12.3456789"^^xsd:double ;
+	   		    	dbo:longitude "98.7654321"^^xsd:double ; 
+			  	].
