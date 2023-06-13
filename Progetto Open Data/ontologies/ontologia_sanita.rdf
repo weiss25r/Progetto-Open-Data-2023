@@ -65,6 +65,35 @@
     
 
 
+    <!-- http://www.sanitasicilia.it/ontology#hasEmail -->
+
+    <owl:DatatypeProperty rdf:about="http://www.sanitasicilia.it/ontology#hasEmail">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.sanitasicilia.it/ontology#StrutturaPubblica"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.sanitasicilia.it/ontology#hasFaxNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.sanitasicilia.it/ontology#hasFaxNumber">
+        <rdfs:domain rdf:resource="http://www.sanitasicilia.it/ontology#StrutturaPubblica"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.sanitasicilia.it/ontology#hasFaxPrefix -->
+
+    <owl:DatatypeProperty rdf:about="http://www.sanitasicilia.it/ontology#hasFaxPrefix">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.sanitasicilia.it/ontology#StrutturaPubblica"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://www.sanitasicilia.it/ontology#hasLabel -->
 
     <owl:DatatypeProperty rdf:about="http://www.sanitasicilia.it/ontology#hasLabel">
@@ -88,6 +117,43 @@
     <owl:DatatypeProperty rdf:about="http://www.sanitasicilia.it/ontology#hasLongitude">
         <rdfs:domain rdf:resource="http://www.sanitasicilia.it/ontology#AziendaSanitaria"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.sanitasicilia.it/ontology#hasPhoneNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.sanitasicilia.it/ontology#hasPhoneNumber">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.sanitasicilia.it/ontology#StrutturaPubblica"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.sanitasicilia.it/ontology#hasPhonePrefix -->
+
+    <owl:DatatypeProperty rdf:about="http://www.sanitasicilia.it/ontology#hasPhonePrefix">
+        <rdfs:domain rdf:resource="http://www.sanitasicilia.it/ontology#StrutturaPubblica"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.sanitasicilia.it/ontology#hasVatNumber -->
+
+    <owl:DatatypeProperty rdf:about="http://www.sanitasicilia.it/ontology#hasVatNumber">
+        <rdfs:domain rdf:resource="http://www.sanitasicilia.it/ontology#StrutturaPubblica"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.sanitasicilia.it/ontology#hasWebsite -->
+
+    <owl:DatatypeProperty rdf:about="http://www.sanitasicilia.it/ontology#hasWebsite">
+        <rdfs:domain rdf:resource="http://www.sanitasicilia.it/ontology#StrutturaPubblica"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
