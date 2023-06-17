@@ -1,0 +1,191 @@
+@prefix : <http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/> .
+
+<http://www.sanitasicilia.it/ontology> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.sanitasicilia.it/ontology#isIn
+:isIn rdf:type owl:ObjectProperty ;
+      rdfs:domain :AziendaSanitaria ;
+      rdfs:range :Comune .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.sanitasicilia.it/ontology#businessType
+:businessType rdf:type owl:DatatypeProperty ;
+              rdfs:domain :StrutturaSanitaria ;
+              rdfs:range xsd:string .
+
+
+###  http://www.sanitasicilia.it/ontology#hasAddress
+:hasAddress rdf:type owl:DatatypeProperty ;
+            rdfs:domain :AziendaSanitaria ;
+            rdfs:range xsd:string .
+
+
+###  http://www.sanitasicilia.it/ontology#hasCap
+:hasCap rdf:type owl:DatatypeProperty ;
+        rdfs:domain :AziendaSanitaria ;
+        rdfs:range xsd:integer .
+
+
+###  http://www.sanitasicilia.it/ontology#hasEmail
+:hasEmail rdf:type owl:DatatypeProperty ;
+          rdfs:domain :StrutturaPubblica ;
+          rdfs:range xsd:string .
+
+
+###  http://www.sanitasicilia.it/ontology#hasFaxNumber
+:hasFaxNumber rdf:type owl:DatatypeProperty ;
+              rdfs:domain :StrutturaPubblica ;
+              rdfs:range xsd:integer .
+
+
+###  http://www.sanitasicilia.it/ontology#hasFaxPrefix
+:hasFaxPrefix rdf:type owl:DatatypeProperty ;
+              rdfs:domain :StrutturaPubblica ;
+              rdfs:range xsd:integer .
+
+
+###  http://www.sanitasicilia.it/ontology#hasLatitude
+:hasLatitude rdf:type owl:DatatypeProperty ;
+             rdfs:domain :AziendaSanitaria ;
+             rdfs:range xsd:decimal .
+
+
+###  http://www.sanitasicilia.it/ontology#hasLongitude
+:hasLongitude rdf:type owl:DatatypeProperty ;
+              rdfs:domain :AziendaSanitaria ;
+              rdfs:range xsd:decimal .
+
+
+###  http://www.sanitasicilia.it/ontology#hasName
+:hasName rdf:type owl:DatatypeProperty ;
+         rdfs:domain :AziendaSanitaria ,
+                     :Comune ;
+         rdfs:range xsd:string .
+
+
+###  http://www.sanitasicilia.it/ontology#hasPhoneNumber
+:hasPhoneNumber rdf:type owl:DatatypeProperty ;
+                rdfs:subPropertyOf owl:topDataProperty ;
+                rdfs:domain :StrutturaPubblica ;
+                rdfs:range xsd:integer .
+
+
+###  http://www.sanitasicilia.it/ontology#hasPhonePrefix
+:hasPhonePrefix rdf:type owl:DatatypeProperty ;
+                rdfs:domain :StrutturaPubblica ;
+                rdfs:range xsd:integer .
+
+
+###  http://www.sanitasicilia.it/ontology#hasProvince
+:hasProvince rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Comune ;
+             rdfs:range xsd:string .
+
+
+###  http://www.sanitasicilia.it/ontology#hasReferenceAsp
+:hasReferenceAsp rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :StrutturaPubblica ;
+                 rdfs:range xsd:string .
+
+
+###  http://www.sanitasicilia.it/ontology#hasSiteType
+:hasSiteType rdf:type owl:DatatypeProperty ;
+             rdfs:domain :StrutturaPrivata ;
+             rdfs:range xsd:string .
+
+
+###  http://www.sanitasicilia.it/ontology#hasTotalPopulation
+:hasTotalPopulation rdf:type owl:DatatypeProperty ;
+                    rdfs:domain :Comune ;
+                    rdfs:range xsd:int .
+
+
+###  http://www.sanitasicilia.it/ontology#hasVatNumber
+:hasVatNumber rdf:type owl:DatatypeProperty ;
+              rdfs:domain :Farmacia ,
+                          :Parafarmacia ,
+                          :StrutturaPubblica ;
+              rdfs:range xsd:integer .
+
+
+###  http://www.sanitasicilia.it/ontology#hasWebsite
+:hasWebsite rdf:type owl:DatatypeProperty ;
+            rdfs:domain :StrutturaPubblica ;
+            rdfs:range xsd:string .
+
+
+###  http://www.sanitasicilia.it/ontology#isRecoveryStructure
+:isRecoveryStructure rdf:type owl:DatatypeProperty ;
+                     rdfs:domain :StrutturaPubblica ;
+                     rdfs:range xsd:boolean .
+
+
+###  http://www.sanitasicilia.it/ontology#openingDays
+:openingDays rdf:type owl:DatatypeProperty ;
+             rdfs:domain :StrutturaPubblica ;
+             rdfs:range xsd:int .
+
+
+###  http://www.sanitasicilia.it/ontology#weeklyHours
+:weeklyHours rdf:type owl:DatatypeProperty ;
+             rdfs:domain :StrutturaPubblica ;
+             rdfs:range xsd:int .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.sanitasicilia.it/ontology#AziendaSanitaria
+:AziendaSanitaria rdf:type owl:Class .
+
+
+###  http://www.sanitasicilia.it/ontology#Comune
+:Comune rdf:type owl:Class .
+
+
+###  http://www.sanitasicilia.it/ontology#Farmacia
+:Farmacia rdf:type owl:Class ;
+          rdfs:subClassOf :NegozioSanitario .
+
+
+###  http://www.sanitasicilia.it/ontology#NegozioSanitario
+:NegozioSanitario rdf:type owl:Class ;
+                  rdfs:subClassOf :AziendaSanitaria .
+
+
+###  http://www.sanitasicilia.it/ontology#Parafarmacia
+:Parafarmacia rdf:type owl:Class ;
+              rdfs:subClassOf :NegozioSanitario .
+
+
+###  http://www.sanitasicilia.it/ontology#StrutturaPrivata
+:StrutturaPrivata rdf:type owl:Class ;
+                  rdfs:subClassOf :StrutturaSanitaria .
+
+
+###  http://www.sanitasicilia.it/ontology#StrutturaPubblica
+:StrutturaPubblica rdf:type owl:Class ;
+                   rdfs:subClassOf :StrutturaSanitaria .
+
+
+###  http://www.sanitasicilia.it/ontology#StrutturaSanitaria
+:StrutturaSanitaria rdf:type owl:Class ;
+                    rdfs:subClassOf :AziendaSanitaria .
+
+
+###  Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi

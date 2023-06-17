@@ -1,4 +1,4 @@
-CAP,LATITUDINE,LONGITUDINE,ASP,Provincia,Citta',Indirizzo,Denominazione,Attivita',Tipo sede
+CAP,Latitudine,Longitudine,ASP,Provincia,Citta',Indirizzo,Denominazione,Attivita',Tipo sede
 90122,38.0845172,13.4250904,PA,Palermo,Palermo,CORSO DEI MILLE 56,CASA DI CURA COSENTINO,Casa di cura,Sede Operativa
 90167,38.1497653,13.3345738,PA,Palermo,Palermo,VIA AUSONIA 43/45,CENTRO ANDROS ,Day Surgery autonomo,Sede Operativa
 90019,37.9955645,13.6546812,PA,Palermo,Palermo,VIA ROMA 94,NUOVA CASA DI CURA DEMMA ,Radiologia,Sede Operativa
