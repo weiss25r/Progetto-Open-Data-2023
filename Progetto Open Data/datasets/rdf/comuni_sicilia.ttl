@@ -6,2315 +6,2315 @@ ssr:Acate a sso:Comune ;
     sso:hasName "Acate"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "10576"^^xsd:int .
+    sso:hasTotalPopulation 10576 .
 
 ssr:Aci_Bonaccorsi a sso:Comune ;
     sso:hasName "Aci Bonaccorsi"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "3499"^^xsd:int .
+    sso:hasTotalPopulation 3499 .
 
 ssr:Aci_Castello a sso:Comune ;
     sso:hasName "Aci Castello"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "17852"^^xsd:int .
+    sso:hasTotalPopulation 17852 .
 
 ssr:Aci_Catena a sso:Comune ;
     sso:hasName "Aci Catena"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "27790"^^xsd:int .
+    sso:hasTotalPopulation 27790 .
 
 ssr:Aci_SantAntonio a sso:Comune ;
     sso:hasName "Aci Sant'Antonio"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "17995"^^xsd:int .
+    sso:hasTotalPopulation 17995 .
 
 ssr:Acireale a sso:Comune ;
     sso:hasName "Acireale"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "50515"^^xsd:int .
+    sso:hasTotalPopulation 50515 .
 
 ssr:Acquaviva_Platani a sso:Comune ;
     sso:hasName "Acquaviva Platani"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "869"^^xsd:int .
+    sso:hasTotalPopulation 869 .
 
 ssr:Acquedolci a sso:Comune ;
     sso:hasName "Acquedolci"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "5483"^^xsd:int .
+    sso:hasTotalPopulation 5483 .
 
 ssr:Adrano a sso:Comune ;
     sso:hasName "Adrano"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "33899"^^xsd:int .
+    sso:hasTotalPopulation 33899 .
 
 ssr:Agira a sso:Comune ;
     sso:hasName "Agira"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "7671"^^xsd:int .
+    sso:hasTotalPopulation 7671 .
 
 ssr:Agrigento a sso:Comune ;
     sso:hasName "Agrigento"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "412472"^^xsd:int .
+    sso:hasTotalPopulation 412472 .
 
 ssr:Aidone a sso:Comune ;
     sso:hasName "Aidone"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "4183"^^xsd:int .
+    sso:hasTotalPopulation 4183 .
 
 ssr:Alcara_Li_Fusi a sso:Comune ;
     sso:hasName "Alcara Li Fusi"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1702"^^xsd:int .
+    sso:hasTotalPopulation 1702 .
 
 ssr:Alessandria_Della_Rocca a sso:Comune ;
     sso:hasName "Alessandria Della Rocca"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "2452"^^xsd:int .
+    sso:hasTotalPopulation 2452 .
 
 ssr:Ali a sso:Comune ;
     sso:hasName "Ali'"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "657"^^xsd:int .
+    sso:hasTotalPopulation 657 .
 
 ssr:Ali_Terme a sso:Comune ;
     sso:hasName "Ali' Terme"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2315"^^xsd:int .
+    sso:hasTotalPopulation 2315 .
 
 ssr:Alia a sso:Comune ;
     sso:hasName "Alia"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "3305"^^xsd:int .
+    sso:hasTotalPopulation 3305 .
 
 ssr:Alimena a sso:Comune ;
     sso:hasName "Alimena"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1761"^^xsd:int .
+    sso:hasTotalPopulation 1761 .
 
 ssr:Aliminusa a sso:Comune ;
     sso:hasName "Aliminusa"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1054"^^xsd:int .
+    sso:hasTotalPopulation 1054 .
 
 ssr:Altavilla_Milicia a sso:Comune ;
     sso:hasName "Altavilla Milicia"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "8668"^^xsd:int .
+    sso:hasTotalPopulation 8668 .
 
 ssr:Altofonte a sso:Comune ;
     sso:hasName "Altofonte"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "9848"^^xsd:int .
+    sso:hasTotalPopulation 9848 .
 
 ssr:Antillo a sso:Comune ;
     sso:hasName "Antillo"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "808"^^xsd:int .
+    sso:hasTotalPopulation 808 .
 
 ssr:Aragona a sso:Comune ;
     sso:hasName "Aragona"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "8766"^^xsd:int .
+    sso:hasTotalPopulation 8766 .
 
 ssr:Assoro a sso:Comune ;
     sso:hasName "Assoro"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "4827"^^xsd:int .
+    sso:hasTotalPopulation 4827 .
 
 ssr:Augusta a sso:Comune ;
     sso:hasName "Augusta"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "34658"^^xsd:int .
+    sso:hasTotalPopulation 34658 .
 
 ssr:Avola a sso:Comune ;
     sso:hasName "Avola"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "30392"^^xsd:int .
+    sso:hasTotalPopulation 30392 .
 
 ssr:Bagheria a sso:Comune ;
     sso:hasName "Bagheria"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "52928"^^xsd:int .
+    sso:hasTotalPopulation 52928 .
 
 ssr:Balestrate a sso:Comune ;
     sso:hasName "Balestrate"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "6229"^^xsd:int .
+    sso:hasTotalPopulation 6229 .
 
 ssr:Barcellona_Pozzo_Di_Gotto a sso:Comune ;
     sso:hasName "Barcellona Pozzo Di Gotto"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "39885"^^xsd:int .
+    sso:hasTotalPopulation 39885 .
 
 ssr:Barrafranca a sso:Comune ;
     sso:hasName "Barrafranca"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "11813"^^xsd:int .
+    sso:hasTotalPopulation 11813 .
 
 ssr:Basico a sso:Comune ;
     sso:hasName "Basico'"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "596"^^xsd:int .
+    sso:hasTotalPopulation 596 .
 
 ssr:Baucina a sso:Comune ;
     sso:hasName "Baucina"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1858"^^xsd:int .
+    sso:hasTotalPopulation 1858 .
 
 ssr:Belmonte_Mezzagno a sso:Comune ;
     sso:hasName "Belmonte Mezzagno"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "10858"^^xsd:int .
+    sso:hasTotalPopulation 10858 .
 
 ssr:Belpasso a sso:Comune ;
     sso:hasName "Belpasso"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "27977"^^xsd:int .
+    sso:hasTotalPopulation 27977 .
 
 ssr:Biancavilla a sso:Comune ;
     sso:hasName "Biancavilla"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "22918"^^xsd:int .
+    sso:hasTotalPopulation 22918 .
 
 ssr:Bisacquino a sso:Comune ;
     sso:hasName "Bisacquino"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "4128"^^xsd:int .
+    sso:hasTotalPopulation 4128 .
 
 ssr:Bivona a sso:Comune ;
     sso:hasName "Bivona"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "3214"^^xsd:int .
+    sso:hasTotalPopulation 3214 .
 
 ssr:Blufi a sso:Comune ;
     sso:hasName "Blufi"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "876"^^xsd:int .
+    sso:hasTotalPopulation 876 .
 
 ssr:Bolognetta a sso:Comune ;
     sso:hasName "Bolognetta"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "4090"^^xsd:int .
+    sso:hasTotalPopulation 4090 .
 
 ssr:Bompensiere a sso:Comune ;
     sso:hasName "Bompensiere"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "491"^^xsd:int .
+    sso:hasTotalPopulation 491 .
 
 ssr:Bompietro a sso:Comune ;
     sso:hasName "Bompietro"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1197"^^xsd:int .
+    sso:hasTotalPopulation 1197 .
 
 ssr:Borgetto a sso:Comune ;
     sso:hasName "Borgetto"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "7062"^^xsd:int .
+    sso:hasTotalPopulation 7062 .
 
 ssr:Brolo a sso:Comune ;
     sso:hasName "Brolo"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "5736"^^xsd:int .
+    sso:hasTotalPopulation 5736 .
 
 ssr:Bronte a sso:Comune ;
     sso:hasName "Bronte"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "18220"^^xsd:int .
+    sso:hasTotalPopulation 18220 .
 
 ssr:Buccheri a sso:Comune ;
     sso:hasName "Buccheri"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "1729"^^xsd:int .
+    sso:hasTotalPopulation 1729 .
 
 ssr:Burgio a sso:Comune ;
     sso:hasName "Burgio"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "2497"^^xsd:int .
+    sso:hasTotalPopulation 2497 .
 
 ssr:Buscemi a sso:Comune ;
     sso:hasName "Buscemi"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "950"^^xsd:int .
+    sso:hasTotalPopulation 950 .
 
 ssr:Buseto_Palizzolo a sso:Comune ;
     sso:hasName "Buseto Palizzolo"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "2761"^^xsd:int .
+    sso:hasTotalPopulation 2761 .
 
 ssr:Butera a sso:Comune ;
     sso:hasName "Butera"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "4164"^^xsd:int .
+    sso:hasTotalPopulation 4164 .
 
 ssr:Caccamo a sso:Comune ;
     sso:hasName "Caccamo"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "7663"^^xsd:int .
+    sso:hasTotalPopulation 7663 .
 
 ssr:Calamonaci a sso:Comune ;
     sso:hasName "Calamonaci"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "1158"^^xsd:int .
+    sso:hasTotalPopulation 1158 .
 
 ssr:Calascibetta a sso:Comune ;
     sso:hasName "Calascibetta"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "4062"^^xsd:int .
+    sso:hasTotalPopulation 4062 .
 
 ssr:Calatabiano a sso:Comune ;
     sso:hasName "Calatabiano"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "5121"^^xsd:int .
+    sso:hasTotalPopulation 5121 .
 
 ssr:Caltabellotta a sso:Comune ;
     sso:hasName "Caltabellotta"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "3194"^^xsd:int .
+    sso:hasTotalPopulation 3194 .
 
 ssr:Caltagirone a sso:Comune ;
     sso:hasName "Caltagirone"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "35765"^^xsd:int .
+    sso:hasTotalPopulation 35765 .
 
 ssr:Caltanissetta a sso:Comune ;
     sso:hasName "Caltanissetta"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "58532"^^xsd:int .
+    sso:hasTotalPopulation 58532 .
 
 ssr:Caltavuturo a sso:Comune ;
     sso:hasName "Caltavuturo"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "3558"^^xsd:int .
+    sso:hasTotalPopulation 3558 .
 
 ssr:Camastra a sso:Comune ;
     sso:hasName "Camastra"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "2010"^^xsd:int .
+    sso:hasTotalPopulation 2010 .
 
 ssr:Cammarata a sso:Comune ;
     sso:hasName "Cammarata"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "5896"^^xsd:int .
+    sso:hasTotalPopulation 5896 .
 
 ssr:Campobello_Di_Licata a sso:Comune ;
     sso:hasName "Campobello Di Licata"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "9062"^^xsd:int .
+    sso:hasTotalPopulation 9062 .
 
 ssr:Campobello_Di_Mazara a sso:Comune ;
     sso:hasName "Campobello Di Mazara"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "11382"^^xsd:int .
+    sso:hasTotalPopulation 11382 .
 
 ssr:Campofelice_Di_Fitalia a sso:Comune ;
     sso:hasName "Campofelice Di Fitalia"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "452"^^xsd:int .
+    sso:hasTotalPopulation 452 .
 
 ssr:Campofelice_Di_Roccella a sso:Comune ;
     sso:hasName "Campofelice Di Roccella"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "7666"^^xsd:int .
+    sso:hasTotalPopulation 7666 .
 
 ssr:Campofiorito a sso:Comune ;
     sso:hasName "Campofiorito"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1134"^^xsd:int .
+    sso:hasTotalPopulation 1134 .
 
 ssr:Campofranco a sso:Comune ;
     sso:hasName "Campofranco"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "2656"^^xsd:int .
+    sso:hasTotalPopulation 2656 .
 
 ssr:Camporeale a sso:Comune ;
     sso:hasName "Camporeale"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2990"^^xsd:int .
+    sso:hasTotalPopulation 2990 .
 
 ssr:Camporotondo_Etneo a sso:Comune ;
     sso:hasName "Camporotondo Etneo"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "5214"^^xsd:int .
+    sso:hasTotalPopulation 5214 .
 
 ssr:Canicatti a sso:Comune ;
     sso:hasName "Canicatti'"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "34449"^^xsd:int .
+    sso:hasTotalPopulation 34449 .
 
 ssr:Canicattini_Bagni a sso:Comune ;
     sso:hasName "Canicattini Bagni"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "6517"^^xsd:int .
+    sso:hasTotalPopulation 6517 .
 
 ssr:Capaci a sso:Comune ;
     sso:hasName "Capaci"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "11339"^^xsd:int .
+    sso:hasTotalPopulation 11339 .
 
 ssr:Capizzi a sso:Comune ;
     sso:hasName "Capizzi"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2844"^^xsd:int .
+    sso:hasTotalPopulation 2844 .
 
 ssr:Capo_DOrlando a sso:Comune ;
     sso:hasName "Capo D'Orlando"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "13031"^^xsd:int .
+    sso:hasTotalPopulation 13031 .
 
 ssr:Capri_Leone a sso:Comune ;
     sso:hasName "Capri Leone"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "4353"^^xsd:int .
+    sso:hasTotalPopulation 4353 .
 
 ssr:Carini a sso:Comune ;
     sso:hasName "Carini"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "39773"^^xsd:int .
+    sso:hasTotalPopulation 39773 .
 
 ssr:Carlentini a sso:Comune ;
     sso:hasName "Carlentini"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "17040"^^xsd:int .
+    sso:hasTotalPopulation 17040 .
 
 ssr:Caronia a sso:Comune ;
     sso:hasName "Caronia"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3042"^^xsd:int .
+    sso:hasTotalPopulation 3042 .
 
 ssr:Casalvecchio_Siculo a sso:Comune ;
     sso:hasName "Casalvecchio Siculo"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "726"^^xsd:int .
+    sso:hasTotalPopulation 726 .
 
 ssr:Cassaro a sso:Comune ;
     sso:hasName "Cassaro"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "724"^^xsd:int .
+    sso:hasTotalPopulation 724 .
 
 ssr:Castel_Di_Iudica a sso:Comune ;
     sso:hasName "Castel Di Iudica"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "4269"^^xsd:int .
+    sso:hasTotalPopulation 4269 .
 
 ssr:Castel_Di_Lucio a sso:Comune ;
     sso:hasName "Castel Di Lucio"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1226"^^xsd:int .
+    sso:hasTotalPopulation 1226 .
 
 ssr:Castelbuono a sso:Comune ;
     sso:hasName "Castelbuono"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "8100"^^xsd:int .
+    sso:hasTotalPopulation 8100 .
 
 ssr:Casteldaccia a sso:Comune ;
     sso:hasName "Casteldaccia"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "11585"^^xsd:int .
+    sso:hasTotalPopulation 11585 .
 
 ssr:CastellUmberto a sso:Comune ;
     sso:hasName "Castell'Umberto"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2830"^^xsd:int .
+    sso:hasTotalPopulation 2830 .
 
 ssr:Castellammare_Del_Golfo a sso:Comune ;
     sso:hasName "Castellammare Del Golfo"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "14610"^^xsd:int .
+    sso:hasTotalPopulation 14610 .
 
 ssr:Castellana_Sicula a sso:Comune ;
     sso:hasName "Castellana Sicula"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "3020"^^xsd:int .
+    sso:hasTotalPopulation 3020 .
 
 ssr:Castelmola a sso:Comune ;
     sso:hasName "Castelmola"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1062"^^xsd:int .
+    sso:hasTotalPopulation 1062 .
 
 ssr:Casteltermini a sso:Comune ;
     sso:hasName "Casteltermini"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "7269"^^xsd:int .
+    sso:hasTotalPopulation 7269 .
 
 ssr:Castelvetrano a sso:Comune ;
     sso:hasName "Castelvetrano"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "29341"^^xsd:int .
+    sso:hasTotalPopulation 29341 .
 
 ssr:Castiglione_Di_Sicilia a sso:Comune ;
     sso:hasName "Castiglione Di Sicilia"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "2903"^^xsd:int .
+    sso:hasTotalPopulation 2903 .
 
 ssr:Castrofilippo a sso:Comune ;
     sso:hasName "Castrofilippo"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "2618"^^xsd:int .
+    sso:hasTotalPopulation 2618 .
 
 ssr:Castroreale a sso:Comune ;
     sso:hasName "Castroreale"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2246"^^xsd:int .
+    sso:hasTotalPopulation 2246 .
 
 ssr:Catania a sso:Comune ;
     sso:hasName "Catania"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "298762"^^xsd:int .
+    sso:hasTotalPopulation 298762 .
 
 ssr:Catenanuova a sso:Comune ;
     sso:hasName "Catenanuova"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "4473"^^xsd:int .
+    sso:hasTotalPopulation 4473 .
 
 ssr:Cattolica_Eraclea a sso:Comune ;
     sso:hasName "Cattolica Eraclea"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "3300"^^xsd:int .
+    sso:hasTotalPopulation 3300 .
 
 ssr:Cefala_Diana a sso:Comune ;
     sso:hasName "Cefala' Diana"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "981"^^xsd:int .
+    sso:hasTotalPopulation 981 .
 
 ssr:Cefalu a sso:Comune ;
     sso:hasName "Cefalu'"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "13881"^^xsd:int .
+    sso:hasTotalPopulation 13881 .
 
 ssr:Centuripe a sso:Comune ;
     sso:hasName "Centuripe"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "5033"^^xsd:int .
+    sso:hasTotalPopulation 5033 .
 
 ssr:Cerami a sso:Comune ;
     sso:hasName "Cerami"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "1849"^^xsd:int .
+    sso:hasTotalPopulation 1849 .
 
 ssr:Cerda a sso:Comune ;
     sso:hasName "Cerda"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "4923"^^xsd:int .
+    sso:hasTotalPopulation 4923 .
 
 ssr:Cesaro a sso:Comune ;
     sso:hasName "Cesaro'"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2165"^^xsd:int .
+    sso:hasTotalPopulation 2165 .
 
 ssr:Chiaramonte_Gulfi a sso:Comune ;
     sso:hasName "Chiaramonte Gulfi"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "7988"^^xsd:int .
+    sso:hasTotalPopulation 7988 .
 
 ssr:Chiusa_Sclafani a sso:Comune ;
     sso:hasName "Chiusa Sclafani"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2530"^^xsd:int .
+    sso:hasTotalPopulation 2530 .
 
 ssr:Cianciana a sso:Comune ;
     sso:hasName "Cianciana"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "3103"^^xsd:int .
+    sso:hasTotalPopulation 3103 .
 
 ssr:Ciminna a sso:Comune ;
     sso:hasName "Ciminna"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "3428"^^xsd:int .
+    sso:hasTotalPopulation 3428 .
 
 ssr:Cinisi a sso:Comune ;
     sso:hasName "Cinisi"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "11936"^^xsd:int .
+    sso:hasTotalPopulation 11936 .
 
 ssr:Collesano a sso:Comune ;
     sso:hasName "Collesano"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "3650"^^xsd:int .
+    sso:hasTotalPopulation 3650 .
 
 ssr:Comiso a sso:Comune ;
     sso:hasName "Comiso"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "30016"^^xsd:int .
+    sso:hasTotalPopulation 30016 .
 
 ssr:Comitini a sso:Comune ;
     sso:hasName "Comitini"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "852"^^xsd:int .
+    sso:hasTotalPopulation 852 .
 
 ssr:Condro a sso:Comune ;
     sso:hasName "Condro'"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "471"^^xsd:int .
+    sso:hasTotalPopulation 471 .
 
 ssr:Contessa_Entellina a sso:Comune ;
     sso:hasName "Contessa Entellina"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1502"^^xsd:int .
+    sso:hasTotalPopulation 1502 .
 
 ssr:Corleone a sso:Comune ;
     sso:hasName "Corleone"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "10364"^^xsd:int .
+    sso:hasTotalPopulation 10364 .
 
 ssr:Custonaci a sso:Comune ;
     sso:hasName "Custonaci"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "5274"^^xsd:int .
+    sso:hasTotalPopulation 5274 .
 
 ssr:Delia a sso:Comune ;
     sso:hasName "Delia"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "3858"^^xsd:int .
+    sso:hasTotalPopulation 3858 .
 
 ssr:Enna a sso:Comune ;
     sso:hasName "Enna"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "25512"^^xsd:int .
+    sso:hasTotalPopulation 25512 .
 
 ssr:Erice a sso:Comune ;
     sso:hasName "Erice"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "26089"^^xsd:int .
+    sso:hasTotalPopulation 26089 .
 
 ssr:Falcone a sso:Comune ;
     sso:hasName "Falcone"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2793"^^xsd:int .
+    sso:hasTotalPopulation 2793 .
 
 ssr:Favara a sso:Comune ;
     sso:hasName "Favara"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "31593"^^xsd:int .
+    sso:hasTotalPopulation 31593 .
 
 ssr:Favignana a sso:Comune ;
     sso:hasName "Favignana"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "4525"^^xsd:int .
+    sso:hasTotalPopulation 4525 .
 
 ssr:Ferla a sso:Comune ;
     sso:hasName "Ferla"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "2305"^^xsd:int .
+    sso:hasTotalPopulation 2305 .
 
 ssr:Ficarazzi a sso:Comune ;
     sso:hasName "Ficarazzi"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "12991"^^xsd:int .
+    sso:hasTotalPopulation 12991 .
 
 ssr:Ficarra a sso:Comune ;
     sso:hasName "Ficarra"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1286"^^xsd:int .
+    sso:hasTotalPopulation 1286 .
 
 ssr:Fiumedinisi a sso:Comune ;
     sso:hasName "Fiumedinisi"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1275"^^xsd:int .
+    sso:hasTotalPopulation 1275 .
 
 ssr:Fiumefreddo_Di_Sicilia a sso:Comune ;
     sso:hasName "Fiumefreddo Di Sicilia"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "9073"^^xsd:int .
+    sso:hasTotalPopulation 9073 .
 
 ssr:Floresta a sso:Comune ;
     sso:hasName "Floresta"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "469"^^xsd:int .
+    sso:hasTotalPopulation 469 .
 
 ssr:Floridia a sso:Comune ;
     sso:hasName "Floridia"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "21182"^^xsd:int .
+    sso:hasTotalPopulation 21182 .
 
 ssr:Fondachelli-Fantina a sso:Comune ;
     sso:hasName "Fondachelli-Fantina"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "989"^^xsd:int .
+    sso:hasTotalPopulation 989 .
 
 ssr:Forza_DAgro a sso:Comune ;
     sso:hasName "Forza D'Agro'"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "835"^^xsd:int .
+    sso:hasTotalPopulation 835 .
 
 ssr:Francavilla_Di_Sicilia a sso:Comune ;
     sso:hasName "Francavilla Di Sicilia"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3543"^^xsd:int .
+    sso:hasTotalPopulation 3543 .
 
 ssr:Francofonte a sso:Comune ;
     sso:hasName "Francofonte"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "11746"^^xsd:int .
+    sso:hasTotalPopulation 11746 .
 
 ssr:Frazzano a sso:Comune ;
     sso:hasName "Frazzano'"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "587"^^xsd:int .
+    sso:hasTotalPopulation 587 .
 
 ssr:Furci_Siculo a sso:Comune ;
     sso:hasName "Furci Siculo"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3211"^^xsd:int .
+    sso:hasTotalPopulation 3211 .
 
 ssr:Furnari a sso:Comune ;
     sso:hasName "Furnari"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "4003"^^xsd:int .
+    sso:hasTotalPopulation 4003 .
 
 ssr:Gaggi a sso:Comune ;
     sso:hasName "Gaggi"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3091"^^xsd:int .
+    sso:hasTotalPopulation 3091 .
 
 ssr:Gagliano_Castelferrato a sso:Comune ;
     sso:hasName "Gagliano Castelferrato"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "3266"^^xsd:int .
+    sso:hasTotalPopulation 3266 .
 
 ssr:Galati_Mamertino a sso:Comune ;
     sso:hasName "Galati Mamertino"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2261"^^xsd:int .
+    sso:hasTotalPopulation 2261 .
 
 ssr:Gallodoro a sso:Comune ;
     sso:hasName "Gallodoro"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "336"^^xsd:int .
+    sso:hasTotalPopulation 336 .
 
 ssr:Gangi a sso:Comune ;
     sso:hasName "Gangi"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "6110"^^xsd:int .
+    sso:hasTotalPopulation 6110 .
 
 ssr:Gela a sso:Comune ;
     sso:hasName "Gela"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "71217"^^xsd:int .
+    sso:hasTotalPopulation 71217 .
 
 ssr:Geraci_Siculo a sso:Comune ;
     sso:hasName "Geraci Siculo"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1702"^^xsd:int .
+    sso:hasTotalPopulation 1702 .
 
 ssr:Giardinello a sso:Comune ;
     sso:hasName "Giardinello"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2262"^^xsd:int .
+    sso:hasTotalPopulation 2262 .
 
 ssr:Giardini-Naxos a sso:Comune ;
     sso:hasName "Giardini-Naxos"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "9231"^^xsd:int .
+    sso:hasTotalPopulation 9231 .
 
 ssr:Giarratana a sso:Comune ;
     sso:hasName "Giarratana"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "2830"^^xsd:int .
+    sso:hasTotalPopulation 2830 .
 
 ssr:Giarre a sso:Comune ;
     sso:hasName "Giarre"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "26510"^^xsd:int .
+    sso:hasTotalPopulation 26510 .
 
 ssr:Gibellina a sso:Comune ;
     sso:hasName "Gibellina"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "3724"^^xsd:int .
+    sso:hasTotalPopulation 3724 .
 
 ssr:Gioiosa_Marea a sso:Comune ;
     sso:hasName "Gioiosa Marea"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "6733"^^xsd:int .
+    sso:hasTotalPopulation 6733 .
 
 ssr:Giuliana a sso:Comune ;
     sso:hasName "Giuliana"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1683"^^xsd:int .
+    sso:hasTotalPopulation 1683 .
 
 ssr:Godrano a sso:Comune ;
     sso:hasName "Godrano"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1036"^^xsd:int .
+    sso:hasTotalPopulation 1036 .
 
 ssr:Grammichele a sso:Comune ;
     sso:hasName "Grammichele"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "12407"^^xsd:int .
+    sso:hasTotalPopulation 12407 .
 
 ssr:Graniti a sso:Comune ;
     sso:hasName "Graniti"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1460"^^xsd:int .
+    sso:hasTotalPopulation 1460 .
 
 ssr:Gratteri a sso:Comune ;
     sso:hasName "Gratteri"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "859"^^xsd:int .
+    sso:hasTotalPopulation 859 .
 
 ssr:Gravina_Di_Catania a sso:Comune ;
     sso:hasName "Gravina Di Catania"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "25185"^^xsd:int .
+    sso:hasTotalPopulation 25185 .
 
 ssr:Grotte a sso:Comune ;
     sso:hasName "Grotte"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "5209"^^xsd:int .
+    sso:hasTotalPopulation 5209 .
 
 ssr:Gualtieri_Sicamino a sso:Comune ;
     sso:hasName "Gualtieri Sicamino'"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1580"^^xsd:int .
+    sso:hasTotalPopulation 1580 .
 
 ssr:Isnello a sso:Comune ;
     sso:hasName "Isnello"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1306"^^xsd:int .
+    sso:hasTotalPopulation 1306 .
 
 ssr:Isola_Delle_Femmine a sso:Comune ;
     sso:hasName "Isola Delle Femmine"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "7041"^^xsd:int .
+    sso:hasTotalPopulation 7041 .
 
 ssr:Ispica a sso:Comune ;
     sso:hasName "Ispica"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "16253"^^xsd:int .
+    sso:hasTotalPopulation 16253 .
 
 ssr:Itala a sso:Comune ;
     sso:hasName "Itala"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1513"^^xsd:int .
+    sso:hasTotalPopulation 1513 .
 
 ssr:Joppolo_Giancaxio a sso:Comune ;
     sso:hasName "Joppolo Giancaxio"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "1082"^^xsd:int .
+    sso:hasTotalPopulation 1082 .
 
 ssr:Lampedusa_E_Linosa a sso:Comune ;
     sso:hasName "Lampedusa E Linosa"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "6505"^^xsd:int .
+    sso:hasTotalPopulation 6505 .
 
 ssr:Lascari a sso:Comune ;
     sso:hasName "Lascari"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "3677"^^xsd:int .
+    sso:hasTotalPopulation 3677 .
 
 ssr:Leni a sso:Comune ;
     sso:hasName "Leni"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "682"^^xsd:int .
+    sso:hasTotalPopulation 682 .
 
 ssr:Lentini a sso:Comune ;
     sso:hasName "Lentini"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "21646"^^xsd:int .
+    sso:hasTotalPopulation 21646 .
 
 ssr:Leonforte a sso:Comune ;
     sso:hasName "Leonforte"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "12331"^^xsd:int .
+    sso:hasTotalPopulation 12331 .
 
 ssr:Lercara_Friddi a sso:Comune ;
     sso:hasName "Lercara Friddi"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "6182"^^xsd:int .
+    sso:hasTotalPopulation 6182 .
 
 ssr:Letojanni a sso:Comune ;
     sso:hasName "Letojanni"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2842"^^xsd:int .
+    sso:hasTotalPopulation 2842 .
 
 ssr:Librizzi a sso:Comune ;
     sso:hasName "Librizzi"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1579"^^xsd:int .
+    sso:hasTotalPopulation 1579 .
 
 ssr:Licata a sso:Comune ;
     sso:hasName "Licata"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "34287"^^xsd:int .
+    sso:hasTotalPopulation 34287 .
 
 ssr:Licodia_Eubea a sso:Comune ;
     sso:hasName "Licodia Eubea"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "2731"^^xsd:int .
+    sso:hasTotalPopulation 2731 .
 
 ssr:Limina a sso:Comune ;
     sso:hasName "Limina"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "729"^^xsd:int .
+    sso:hasTotalPopulation 729 .
 
 ssr:Linguaglossa a sso:Comune ;
     sso:hasName "Linguaglossa"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "5003"^^xsd:int .
+    sso:hasTotalPopulation 5003 .
 
 ssr:Lipari a sso:Comune ;
     sso:hasName "Lipari"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "12565"^^xsd:int .
+    sso:hasTotalPopulation 12565 .
 
 ssr:Longi a sso:Comune ;
     sso:hasName "Longi"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1321"^^xsd:int .
+    sso:hasTotalPopulation 1321 .
 
 ssr:Lucca_Sicula a sso:Comune ;
     sso:hasName "Lucca Sicula"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "1719"^^xsd:int .
+    sso:hasTotalPopulation 1719 .
 
 ssr:Maletto a sso:Comune ;
     sso:hasName "Maletto"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "3599"^^xsd:int .
+    sso:hasTotalPopulation 3599 .
 
 ssr:Malfa a sso:Comune ;
     sso:hasName "Malfa"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "994"^^xsd:int .
+    sso:hasTotalPopulation 994 .
 
 ssr:Malvagna a sso:Comune ;
     sso:hasName "Malvagna"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "629"^^xsd:int .
+    sso:hasTotalPopulation 629 .
 
 ssr:Mandanici a sso:Comune ;
     sso:hasName "Mandanici"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "505"^^xsd:int .
+    sso:hasTotalPopulation 505 .
 
 ssr:Maniace a sso:Comune ;
     sso:hasName "Maniace"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "3757"^^xsd:int .
+    sso:hasTotalPopulation 3757 .
 
 ssr:Marianopoli a sso:Comune ;
     sso:hasName "Marianopoli"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "1600"^^xsd:int .
+    sso:hasTotalPopulation 1600 .
 
 ssr:Marineo a sso:Comune ;
     sso:hasName "Marineo"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "6113"^^xsd:int .
+    sso:hasTotalPopulation 6113 .
 
 ssr:Marsala a sso:Comune ;
     sso:hasName "Marsala"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "79809"^^xsd:int .
+    sso:hasTotalPopulation 79809 .
 
 ssr:Mascali a sso:Comune ;
     sso:hasName "Mascali"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "14330"^^xsd:int .
+    sso:hasTotalPopulation 14330 .
 
 ssr:Mascalucia a sso:Comune ;
     sso:hasName "Mascalucia"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "31964"^^xsd:int .
+    sso:hasTotalPopulation 31964 .
 
 ssr:Mazara_Del_Vallo a sso:Comune ;
     sso:hasName "Mazara Del Vallo"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "50039"^^xsd:int .
+    sso:hasTotalPopulation 50039 .
 
 ssr:Mazzarino a sso:Comune ;
     sso:hasName "Mazzarino"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "10932"^^xsd:int .
+    sso:hasTotalPopulation 10932 .
 
 ssr:Mazzarra_SantAndrea a sso:Comune ;
     sso:hasName "Mazzarra' Sant'Andrea"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1388"^^xsd:int .
+    sso:hasTotalPopulation 1388 .
 
 ssr:Mazzarrone a sso:Comune ;
     sso:hasName "Mazzarrone"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "3965"^^xsd:int .
+    sso:hasTotalPopulation 3965 .
 
 ssr:Melilli a sso:Comune ;
     sso:hasName "Melilli"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "13171"^^xsd:int .
+    sso:hasTotalPopulation 13171 .
 
 ssr:Menfi a sso:Comune ;
     sso:hasName "Menfi"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "11814"^^xsd:int .
+    sso:hasTotalPopulation 11814 .
 
 ssr:Meri a sso:Comune ;
     sso:hasName "Meri'"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2281"^^xsd:int .
+    sso:hasTotalPopulation 2281 .
 
 ssr:Messina a sso:Comune ;
     sso:hasName "Messina"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "218786"^^xsd:int .
+    sso:hasTotalPopulation 218786 .
 
 ssr:Mezzojuso a sso:Comune ;
     sso:hasName "Mezzojuso"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2617"^^xsd:int .
+    sso:hasTotalPopulation 2617 .
 
 ssr:Milazzo a sso:Comune ;
     sso:hasName "Milazzo"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "30043"^^xsd:int .
+    sso:hasTotalPopulation 30043 .
 
 ssr:Milena a sso:Comune ;
     sso:hasName "Milena"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "2700"^^xsd:int .
+    sso:hasTotalPopulation 2700 .
 
 ssr:Militello_In_Val_Di_Catania a sso:Comune ;
     sso:hasName "Militello In Val Di Catania"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "6765"^^xsd:int .
+    sso:hasTotalPopulation 6765 .
 
 ssr:Militello_Rosmarino a sso:Comune ;
     sso:hasName "Militello Rosmarino"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1163"^^xsd:int .
+    sso:hasTotalPopulation 1163 .
 
 ssr:Milo a sso:Comune ;
     sso:hasName "Milo"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "1039"^^xsd:int .
+    sso:hasTotalPopulation 1039 .
 
 ssr:Mineo a sso:Comune ;
     sso:hasName "Mineo"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "4486"^^xsd:int .
+    sso:hasTotalPopulation 4486 .
 
 ssr:Mirabella_Imbaccari a sso:Comune ;
     sso:hasName "Mirabella Imbaccari"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "4217"^^xsd:int .
+    sso:hasTotalPopulation 4217 .
 
 ssr:Mirto a sso:Comune ;
     sso:hasName "Mirto"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "889"^^xsd:int .
+    sso:hasTotalPopulation 889 .
 
 ssr:Misilmeri a sso:Comune ;
     sso:hasName "Misilmeri"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "28760"^^xsd:int .
+    sso:hasTotalPopulation 28760 .
 
 ssr:Misterbianco a sso:Comune ;
     sso:hasName "Misterbianco"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "49017"^^xsd:int .
+    sso:hasTotalPopulation 49017 .
 
 ssr:Mistretta a sso:Comune ;
     sso:hasName "Mistretta"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "4364"^^xsd:int .
+    sso:hasTotalPopulation 4364 .
 
 ssr:Modica a sso:Comune ;
     sso:hasName "Modica"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "53503"^^xsd:int .
+    sso:hasTotalPopulation 53503 .
 
 ssr:Moio_Alcantara a sso:Comune ;
     sso:hasName "Moio Alcantara"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "677"^^xsd:int .
+    sso:hasTotalPopulation 677 .
 
 ssr:Monforte_San_Giorgio a sso:Comune ;
     sso:hasName "Monforte San Giorgio"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2508"^^xsd:int .
+    sso:hasTotalPopulation 2508 .
 
 ssr:Mongiuffi_Melia a sso:Comune ;
     sso:hasName "Mongiuffi Melia"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "528"^^xsd:int .
+    sso:hasTotalPopulation 528 .
 
 ssr:Monreale a sso:Comune ;
     sso:hasName "Monreale"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "38698"^^xsd:int .
+    sso:hasTotalPopulation 38698 .
 
 ssr:Montagnareale a sso:Comune ;
     sso:hasName "Montagnareale"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1393"^^xsd:int .
+    sso:hasTotalPopulation 1393 .
 
 ssr:Montalbano_Elicona a sso:Comune ;
     sso:hasName "Montalbano Elicona"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2038"^^xsd:int .
+    sso:hasTotalPopulation 2038 .
 
 ssr:Montallegro a sso:Comune ;
     sso:hasName "Montallegro"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "2377"^^xsd:int .
+    sso:hasTotalPopulation 2377 .
 
 ssr:Montedoro a sso:Comune ;
     sso:hasName "Montedoro"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "1379"^^xsd:int .
+    sso:hasTotalPopulation 1379 .
 
 ssr:Montelepre a sso:Comune ;
     sso:hasName "Montelepre"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "5742"^^xsd:int .
+    sso:hasTotalPopulation 5742 .
 
 ssr:Montemaggiore_Belsito a sso:Comune ;
     sso:hasName "Montemaggiore Belsito"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2949"^^xsd:int .
+    sso:hasTotalPopulation 2949 .
 
 ssr:Monterosso_Almo a sso:Comune ;
     sso:hasName "Monterosso Almo"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "2783"^^xsd:int .
+    sso:hasTotalPopulation 2783 .
 
 ssr:Montevago a sso:Comune ;
     sso:hasName "Montevago"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "2695"^^xsd:int .
+    sso:hasTotalPopulation 2695 .
 
 ssr:Motta_Camastra a sso:Comune ;
     sso:hasName "Motta Camastra"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "794"^^xsd:int .
+    sso:hasTotalPopulation 794 .
 
 ssr:Motta_DAffermo a sso:Comune ;
     sso:hasName "Motta D'Affermo"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "657"^^xsd:int .
+    sso:hasTotalPopulation 657 .
 
 ssr:Motta_SantAnastasia a sso:Comune ;
     sso:hasName "Motta Sant'Anastasia"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "12081"^^xsd:int .
+    sso:hasTotalPopulation 12081 .
 
 ssr:Mussomeli a sso:Comune ;
     sso:hasName "Mussomeli"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "9913"^^xsd:int .
+    sso:hasTotalPopulation 9913 .
 
 ssr:Naro a sso:Comune ;
     sso:hasName "Naro"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "7007"^^xsd:int .
+    sso:hasTotalPopulation 7007 .
 
 ssr:Naso a sso:Comune ;
     sso:hasName "Naso"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3462"^^xsd:int .
+    sso:hasTotalPopulation 3462 .
 
 ssr:Nicolosi a sso:Comune ;
     sso:hasName "Nicolosi"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "7594"^^xsd:int .
+    sso:hasTotalPopulation 7594 .
 
 ssr:Nicosia a sso:Comune ;
     sso:hasName "Nicosia"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "12686"^^xsd:int .
+    sso:hasTotalPopulation 12686 .
 
 ssr:Niscemi a sso:Comune ;
     sso:hasName "Niscemi"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "24934"^^xsd:int .
+    sso:hasTotalPopulation 24934 .
 
 ssr:Nissoria a sso:Comune ;
     sso:hasName "Nissoria"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "2844"^^xsd:int .
+    sso:hasTotalPopulation 2844 .
 
 ssr:Nizza_Di_Sicilia a sso:Comune ;
     sso:hasName "Nizza Di Sicilia"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3526"^^xsd:int .
+    sso:hasTotalPopulation 3526 .
 
 ssr:Noto a sso:Comune ;
     sso:hasName "Noto"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "24264"^^xsd:int .
+    sso:hasTotalPopulation 24264 .
 
 ssr:Novara_Di_Sicilia a sso:Comune ;
     sso:hasName "Novara Di Sicilia"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1174"^^xsd:int .
+    sso:hasTotalPopulation 1174 .
 
 ssr:Oliveri a sso:Comune ;
     sso:hasName "Oliveri"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2086"^^xsd:int .
+    sso:hasTotalPopulation 2086 .
 
 ssr:Pace_Del_Mela a sso:Comune ;
     sso:hasName "Pace Del Mela"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "5980"^^xsd:int .
+    sso:hasTotalPopulation 5980 .
 
 ssr:Paceco a sso:Comune ;
     sso:hasName "Paceco"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "10779"^^xsd:int .
+    sso:hasTotalPopulation 10779 .
 
 ssr:Pachino a sso:Comune ;
     sso:hasName "Pachino"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "21714"^^xsd:int .
+    sso:hasTotalPopulation 21714 .
 
 ssr:Pagliara a sso:Comune ;
     sso:hasName "Pagliara"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1118"^^xsd:int .
+    sso:hasTotalPopulation 1118 .
 
 ssr:Palagonia a sso:Comune ;
     sso:hasName "Palagonia"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "15784"^^xsd:int .
+    sso:hasTotalPopulation 15784 .
 
 ssr:Palazzo_Adriano a sso:Comune ;
     sso:hasName "Palazzo Adriano"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1814"^^xsd:int .
+    sso:hasTotalPopulation 1814 .
 
 ssr:Palazzolo_Acreide a sso:Comune ;
     sso:hasName "Palazzolo Acreide"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "8101"^^xsd:int .
+    sso:hasTotalPopulation 8101 .
 
 ssr:Palermo a sso:Comune ;
     sso:hasName "Palermo"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "630167"^^xsd:int .
+    sso:hasTotalPopulation 630167 .
 
 ssr:Palma_Di_Montechiaro a sso:Comune ;
     sso:hasName "Palma Di Montechiaro"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "21373"^^xsd:int .
+    sso:hasTotalPopulation 21373 .
 
 ssr:Pantelleria a sso:Comune ;
     sso:hasName "Pantelleria"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "7352"^^xsd:int .
+    sso:hasTotalPopulation 7352 .
 
 ssr:Partanna a sso:Comune ;
     sso:hasName "Partanna"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "9838"^^xsd:int .
+    sso:hasTotalPopulation 9838 .
 
 ssr:Partinico a sso:Comune ;
     sso:hasName "Partinico"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "30674"^^xsd:int .
+    sso:hasTotalPopulation 30674 .
 
 ssr:Paterno a sso:Comune ;
     sso:hasName "Paterno'"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "45162"^^xsd:int .
+    sso:hasTotalPopulation 45162 .
 
 ssr:Patti a sso:Comune ;
     sso:hasName "Patti"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "12699"^^xsd:int .
+    sso:hasTotalPopulation 12699 .
 
 ssr:Pedara a sso:Comune ;
     sso:hasName "Pedara"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "15058"^^xsd:int .
+    sso:hasTotalPopulation 15058 .
 
 ssr:Petralia_Soprana a sso:Comune ;
     sso:hasName "Petralia Soprana"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2968"^^xsd:int .
+    sso:hasTotalPopulation 2968 .
 
 ssr:Petralia_Sottana a sso:Comune ;
     sso:hasName "Petralia Sottana"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2475"^^xsd:int .
+    sso:hasTotalPopulation 2475 .
 
 ssr:Petrosino a sso:Comune ;
     sso:hasName "Petrosino"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "7903"^^xsd:int .
+    sso:hasTotalPopulation 7903 .
 
 ssr:Pettineo a sso:Comune ;
     sso:hasName "Pettineo"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1236"^^xsd:int .
+    sso:hasTotalPopulation 1236 .
 
 ssr:Piana_Degli_Albanesi a sso:Comune ;
     sso:hasName "Piana Degli Albanesi"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "5541"^^xsd:int .
+    sso:hasTotalPopulation 5541 .
 
 ssr:Piazza_Armerina a sso:Comune ;
     sso:hasName "Piazza Armerina"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "20642"^^xsd:int .
+    sso:hasTotalPopulation 20642 .
 
 ssr:Piedimonte_Etneo a sso:Comune ;
     sso:hasName "Piedimonte Etneo"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "3898"^^xsd:int .
+    sso:hasTotalPopulation 3898 .
 
 ssr:Pietraperzia a sso:Comune ;
     sso:hasName "Pietraperzia"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "6303"^^xsd:int .
+    sso:hasTotalPopulation 6303 .
 
 ssr:Piraino a sso:Comune ;
     sso:hasName "Piraino"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3778"^^xsd:int .
+    sso:hasTotalPopulation 3778 .
 
 ssr:Poggioreale a sso:Comune ;
     sso:hasName "Poggioreale"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "1303"^^xsd:int .
+    sso:hasTotalPopulation 1303 .
 
 ssr:Polizzi_Generosa a sso:Comune ;
     sso:hasName "Polizzi Generosa"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2908"^^xsd:int .
+    sso:hasTotalPopulation 2908 .
 
 ssr:Pollina a sso:Comune ;
     sso:hasName "Pollina"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2853"^^xsd:int .
+    sso:hasTotalPopulation 2853 .
 
 ssr:Porto_Empedocle a sso:Comune ;
     sso:hasName "Porto Empedocle"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "15600"^^xsd:int .
+    sso:hasTotalPopulation 15600 .
 
 ssr:Portopalo_Di_Capo_Passero a sso:Comune ;
     sso:hasName "Portopalo Di Capo Passero"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "3782"^^xsd:int .
+    sso:hasTotalPopulation 3782 .
 
 ssr:Pozzallo a sso:Comune ;
     sso:hasName "Pozzallo"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "18879"^^xsd:int .
+    sso:hasTotalPopulation 18879 .
 
 ssr:Priolo_Gargallo a sso:Comune ;
     sso:hasName "Priolo Gargallo"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "11249"^^xsd:int .
+    sso:hasTotalPopulation 11249 .
 
 ssr:Prizzi a sso:Comune ;
     sso:hasName "Prizzi"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "4172"^^xsd:int .
+    sso:hasTotalPopulation 4172 .
 
 ssr:Racalmuto a sso:Comune ;
     sso:hasName "Racalmuto"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "7650"^^xsd:int .
+    sso:hasTotalPopulation 7650 .
 
 ssr:Raccuja a sso:Comune ;
     sso:hasName "Raccuja"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "864"^^xsd:int .
+    sso:hasTotalPopulation 864 .
 
 ssr:Raddusa a sso:Comune ;
     sso:hasName "Raddusa"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "2812"^^xsd:int .
+    sso:hasTotalPopulation 2812 .
 
 ssr:Raffadali a sso:Comune ;
     sso:hasName "Raffadali"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "12008"^^xsd:int .
+    sso:hasTotalPopulation 12008 .
 
 ssr:Ragalna a sso:Comune ;
     sso:hasName "Ragalna"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "4204"^^xsd:int .
+    sso:hasTotalPopulation 4204 .
 
 ssr:Ragusa a sso:Comune ;
     sso:hasName "Ragusa"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "73159"^^xsd:int .
+    sso:hasTotalPopulation 73159 .
 
 ssr:Ramacca a sso:Comune ;
     sso:hasName "Ramacca"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "10211"^^xsd:int .
+    sso:hasTotalPopulation 10211 .
 
 ssr:Randazzo a sso:Comune ;
     sso:hasName "Randazzo"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "10186"^^xsd:int .
+    sso:hasTotalPopulation 10186 .
 
 ssr:Ravanusa a sso:Comune ;
     sso:hasName "Ravanusa"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "10349"^^xsd:int .
+    sso:hasTotalPopulation 10349 .
 
 ssr:Realmonte a sso:Comune ;
     sso:hasName "Realmonte"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "4378"^^xsd:int .
+    sso:hasTotalPopulation 4378 .
 
 ssr:Regalbuto a sso:Comune ;
     sso:hasName "Regalbuto"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "6664"^^xsd:int .
+    sso:hasTotalPopulation 6664 .
 
 ssr:Reitano a sso:Comune ;
     sso:hasName "Reitano"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "723"^^xsd:int .
+    sso:hasTotalPopulation 723 .
 
 ssr:Resuttano a sso:Comune ;
     sso:hasName "Resuttano"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "1752"^^xsd:int .
+    sso:hasTotalPopulation 1752 .
 
 ssr:Ribera a sso:Comune ;
     sso:hasName "Ribera"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "17836"^^xsd:int .
+    sso:hasTotalPopulation 17836 .
 
 ssr:Riesi a sso:Comune ;
     sso:hasName "Riesi"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "10502"^^xsd:int .
+    sso:hasTotalPopulation 10502 .
 
 ssr:Riposto a sso:Comune ;
     sso:hasName "Riposto"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "14007"^^xsd:int .
+    sso:hasTotalPopulation 14007 .
 
 ssr:Roccalumera a sso:Comune ;
     sso:hasName "Roccalumera"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3940"^^xsd:int .
+    sso:hasTotalPopulation 3940 .
 
 ssr:Roccamena a sso:Comune ;
     sso:hasName "Roccamena"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1339"^^xsd:int .
+    sso:hasTotalPopulation 1339 .
 
 ssr:Roccapalumba a sso:Comune ;
     sso:hasName "Roccapalumba"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2162"^^xsd:int .
+    sso:hasTotalPopulation 2162 .
 
 ssr:Roccavaldina a sso:Comune ;
     sso:hasName "Roccavaldina"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "998"^^xsd:int .
+    sso:hasTotalPopulation 998 .
 
 ssr:Roccella_Valdemone a sso:Comune ;
     sso:hasName "Roccella Valdemone"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "562"^^xsd:int .
+    sso:hasTotalPopulation 562 .
 
 ssr:Rodi_Milici a sso:Comune ;
     sso:hasName "Rodi' Milici"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1932"^^xsd:int .
+    sso:hasTotalPopulation 1932 .
 
 ssr:Rometta a sso:Comune ;
     sso:hasName "Rometta"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "6573"^^xsd:int .
+    sso:hasTotalPopulation 6573 .
 
 ssr:Rosolini a sso:Comune ;
     sso:hasName "Rosolini"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "20577"^^xsd:int .
+    sso:hasTotalPopulation 20577 .
 
 ssr:Salaparuta a sso:Comune ;
     sso:hasName "Salaparuta"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "1562"^^xsd:int .
+    sso:hasTotalPopulation 1562 .
 
 ssr:Salemi a sso:Comune ;
     sso:hasName "Salemi"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "9986"^^xsd:int .
+    sso:hasTotalPopulation 9986 .
 
 ssr:Sambuca_Di_Sicilia a sso:Comune ;
     sso:hasName "Sambuca Di Sicilia"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "5341"^^xsd:int .
+    sso:hasTotalPopulation 5341 .
 
 ssr:San_Biagio_Platani a sso:Comune ;
     sso:hasName "San Biagio Platani"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "2860"^^xsd:int .
+    sso:hasTotalPopulation 2860 .
 
 ssr:San_Cataldo a sso:Comune ;
     sso:hasName "San Cataldo"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "20939"^^xsd:int .
+    sso:hasTotalPopulation 20939 .
 
 ssr:San_Cipirello a sso:Comune ;
     sso:hasName "San Cipirello"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "4961"^^xsd:int .
+    sso:hasTotalPopulation 4961 .
 
 ssr:San_Cono a sso:Comune ;
     sso:hasName "San Cono"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "2416"^^xsd:int .
+    sso:hasTotalPopulation 2416 .
 
 ssr:San_Filippo_Del_Mela a sso:Comune ;
     sso:hasName "San Filippo Del Mela"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "6728"^^xsd:int .
+    sso:hasTotalPopulation 6728 .
 
 ssr:San_Fratello a sso:Comune ;
     sso:hasName "San Fratello"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3259"^^xsd:int .
+    sso:hasTotalPopulation 3259 .
 
 ssr:San_Giovanni_Gemini a sso:Comune ;
     sso:hasName "San Giovanni Gemini"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "7517"^^xsd:int .
+    sso:hasTotalPopulation 7517 .
 
 ssr:San_Giovanni_La_Punta a sso:Comune ;
     sso:hasName "San Giovanni La Punta"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "23725"^^xsd:int .
+    sso:hasTotalPopulation 23725 .
 
 ssr:San_Giuseppe_Jato a sso:Comune ;
     sso:hasName "San Giuseppe Jato"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "8055"^^xsd:int .
+    sso:hasTotalPopulation 8055 .
 
 ssr:San_Gregorio_Di_Catania a sso:Comune ;
     sso:hasName "San Gregorio Di Catania"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "11485"^^xsd:int .
+    sso:hasTotalPopulation 11485 .
 
 ssr:San_Marco_DAlunzio a sso:Comune ;
     sso:hasName "San Marco D'Alunzio"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1778"^^xsd:int .
+    sso:hasTotalPopulation 1778 .
 
 ssr:San_Mauro_Castelverde a sso:Comune ;
     sso:hasName "San Mauro Castelverde"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1346"^^xsd:int .
+    sso:hasTotalPopulation 1346 .
 
 ssr:San_Michele_Di_Ganzaria a sso:Comune ;
     sso:hasName "San Michele Di Ganzaria"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "2878"^^xsd:int .
+    sso:hasTotalPopulation 2878 .
 
 ssr:San_Pier_Niceto a sso:Comune ;
     sso:hasName "San Pier Niceto"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2595"^^xsd:int .
+    sso:hasTotalPopulation 2595 .
 
 ssr:San_Piero_Patti a sso:Comune ;
     sso:hasName "San Piero Patti"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2570"^^xsd:int .
+    sso:hasTotalPopulation 2570 .
 
 ssr:San_Pietro_Clarenza a sso:Comune ;
     sso:hasName "San Pietro Clarenza"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "8297"^^xsd:int .
+    sso:hasTotalPopulation 8297 .
 
 ssr:San_Salvatore_Di_Fitalia a sso:Comune ;
     sso:hasName "San Salvatore Di Fitalia"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1119"^^xsd:int .
+    sso:hasTotalPopulation 1119 .
 
 ssr:San_Teodoro a sso:Comune ;
     sso:hasName "San Teodoro"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1238"^^xsd:int .
+    sso:hasTotalPopulation 1238 .
 
 ssr:San_Vito_Lo_Capo a sso:Comune ;
     sso:hasName "San Vito Lo Capo"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "4814"^^xsd:int .
+    sso:hasTotalPopulation 4814 .
 
 ssr:SantAgata_Di_Militello a sso:Comune ;
     sso:hasName "Sant'Agata Di Militello"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "11866"^^xsd:int .
+    sso:hasTotalPopulation 11866 .
 
 ssr:SantAgata_Li_Battiati a sso:Comune ;
     sso:hasName "Sant'Agata Li Battiati"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "9351"^^xsd:int .
+    sso:hasTotalPopulation 9351 .
 
 ssr:SantAlessio_Siculo a sso:Comune ;
     sso:hasName "Sant'Alessio Siculo"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1544"^^xsd:int .
+    sso:hasTotalPopulation 1544 .
 
 ssr:SantAlfio a sso:Comune ;
     sso:hasName "Sant'Alfio"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "1509"^^xsd:int .
+    sso:hasTotalPopulation 1509 .
 
 ssr:SantAngelo_Di_Brolo a sso:Comune ;
     sso:hasName "Sant'Angelo Di Brolo"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2760"^^xsd:int .
+    sso:hasTotalPopulation 2760 .
 
 ssr:SantAngelo_Muxaro a sso:Comune ;
     sso:hasName "Sant'Angelo Muxaro"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "1152"^^xsd:int .
+    sso:hasTotalPopulation 1152 .
 
 ssr:Santa_Caterina_Villarmosa a sso:Comune ;
     sso:hasName "Santa Caterina Villarmosa"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "4673"^^xsd:int .
+    sso:hasTotalPopulation 4673 .
 
 ssr:Santa_Cristina_Gela a sso:Comune ;
     sso:hasName "Santa Cristina Gela"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1006"^^xsd:int .
+    sso:hasTotalPopulation 1006 .
 
 ssr:Santa_Croce_Camerina a sso:Comune ;
     sso:hasName "Santa Croce Camerina"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "10979"^^xsd:int .
+    sso:hasTotalPopulation 10979 .
 
 ssr:Santa_Domenica_Vittoria a sso:Comune ;
     sso:hasName "Santa Domenica Vittoria"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "852"^^xsd:int .
+    sso:hasTotalPopulation 852 .
 
 ssr:Santa_Elisabetta a sso:Comune ;
     sso:hasName "Santa Elisabetta"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "2182"^^xsd:int .
+    sso:hasTotalPopulation 2182 .
 
 ssr:Santa_Flavia a sso:Comune ;
     sso:hasName "Santa Flavia"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "11000"^^xsd:int .
+    sso:hasTotalPopulation 11000 .
 
 ssr:Santa_Lucia_Del_Mela a sso:Comune ;
     sso:hasName "Santa Lucia Del Mela"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "4379"^^xsd:int .
+    sso:hasTotalPopulation 4379 .
 
 ssr:Santa_Margherita_Di_Belice a sso:Comune ;
     sso:hasName "Santa Margherita Di Belice"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "6056"^^xsd:int .
+    sso:hasTotalPopulation 6056 .
 
 ssr:Santa_Maria_Di_Licodia a sso:Comune ;
     sso:hasName "Santa Maria Di Licodia"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "7482"^^xsd:int .
+    sso:hasTotalPopulation 7482 .
 
 ssr:Santa_Marina_Salina a sso:Comune ;
     sso:hasName "Santa Marina Salina"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "859"^^xsd:int .
+    sso:hasTotalPopulation 859 .
 
 ssr:Santa_Ninfa a sso:Comune ;
     sso:hasName "Santa Ninfa"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "4770"^^xsd:int .
+    sso:hasTotalPopulation 4770 .
 
 ssr:Santa_Teresa_Di_Riva a sso:Comune ;
     sso:hasName "Santa Teresa Di Riva"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "9335"^^xsd:int .
+    sso:hasTotalPopulation 9335 .
 
 ssr:Santa_Venerina a sso:Comune ;
     sso:hasName "Santa Venerina"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "8452"^^xsd:int .
+    sso:hasTotalPopulation 8452 .
 
 ssr:Santo_Stefano_Di_Camastra a sso:Comune ;
     sso:hasName "Santo Stefano Di Camastra"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "4348"^^xsd:int .
+    sso:hasTotalPopulation 4348 .
 
 ssr:Santo_Stefano_Quisquina a sso:Comune ;
     sso:hasName "Santo Stefano Quisquina"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "4070"^^xsd:int .
+    sso:hasTotalPopulation 4070 .
 
 ssr:Saponara a sso:Comune ;
     sso:hasName "Saponara"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3687"^^xsd:int .
+    sso:hasTotalPopulation 3687 .
 
 ssr:Savoca a sso:Comune ;
     sso:hasName "Savoca"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1724"^^xsd:int .
+    sso:hasTotalPopulation 1724 .
 
 ssr:Scaletta_Zanclea a sso:Comune ;
     sso:hasName "Scaletta Zanclea"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1836"^^xsd:int .
+    sso:hasTotalPopulation 1836 .
 
 ssr:Sciacca a sso:Comune ;
     sso:hasName "Sciacca"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "38967"^^xsd:int .
+    sso:hasTotalPopulation 38967 .
 
 ssr:Sciara a sso:Comune ;
     sso:hasName "Sciara"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2524"^^xsd:int .
+    sso:hasTotalPopulation 2524 .
 
 ssr:Scicli a sso:Comune ;
     sso:hasName "Scicli"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "26854"^^xsd:int .
+    sso:hasTotalPopulation 26854 .
 
 ssr:Scillato a sso:Comune ;
     sso:hasName "Scillato"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "591"^^xsd:int .
+    sso:hasTotalPopulation 591 .
 
 ssr:Sclafani_Bagni a sso:Comune ;
     sso:hasName "Sclafani Bagni"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "375"^^xsd:int .
+    sso:hasTotalPopulation 375 .
 
 ssr:Scordia a sso:Comune ;
     sso:hasName "Scordia"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "16042"^^xsd:int .
+    sso:hasTotalPopulation 16042 .
 
 ssr:Serradifalco a sso:Comune ;
     sso:hasName "Serradifalco"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "5493"^^xsd:int .
+    sso:hasTotalPopulation 5493 .
 
 ssr:Siculiana a sso:Comune ;
     sso:hasName "Siculiana"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "4161"^^xsd:int .
+    sso:hasTotalPopulation 4161 .
 
 ssr:Sinagra a sso:Comune ;
     sso:hasName "Sinagra"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2474"^^xsd:int .
+    sso:hasTotalPopulation 2474 .
 
 ssr:Siracusa a sso:Comune ;
     sso:hasName "Siracusa"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "383738"^^xsd:int .
+    sso:hasTotalPopulation 383738 .
 
 ssr:Solarino a sso:Comune ;
     sso:hasName "Solarino"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "7513"^^xsd:int .
+    sso:hasTotalPopulation 7513 .
 
 ssr:Sommatino a sso:Comune ;
     sso:hasName "Sommatino"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "6397"^^xsd:int .
+    sso:hasTotalPopulation 6397 .
 
 ssr:Sortino a sso:Comune ;
     sso:hasName "Sortino"^^xsd:string ;
     sso:hasProvince "SIRACUSA"^^xsd:string ;
     sso:hasProvinceAcr "SR"^^xsd:string ;
-    sso:hasTotalPopulation "8234"^^xsd:int .
+    sso:hasTotalPopulation 8234 .
 
 ssr:Spadafora a sso:Comune ;
     sso:hasName "Spadafora"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "4687"^^xsd:int .
+    sso:hasTotalPopulation 4687 .
 
 ssr:Sperlinga a sso:Comune ;
     sso:hasName "Sperlinga"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "674"^^xsd:int .
+    sso:hasTotalPopulation 674 .
 
 ssr:Sutera a sso:Comune ;
     sso:hasName "Sutera"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "1178"^^xsd:int .
+    sso:hasTotalPopulation 1178 .
 
 ssr:Taormina a sso:Comune ;
     sso:hasName "Taormina"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "10471"^^xsd:int .
+    sso:hasTotalPopulation 10471 .
 
 ssr:Terme_Vigliatore a sso:Comune ;
     sso:hasName "Terme Vigliatore"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "7218"^^xsd:int .
+    sso:hasTotalPopulation 7218 .
 
 ssr:Termini_Imerese a sso:Comune ;
     sso:hasName "Termini Imerese"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "24920"^^xsd:int .
+    sso:hasTotalPopulation 24920 .
 
 ssr:Terrasini a sso:Comune ;
     sso:hasName "Terrasini"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "12833"^^xsd:int .
+    sso:hasTotalPopulation 12833 .
 
 ssr:Torregrotta a sso:Comune ;
     sso:hasName "Torregrotta"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "7259"^^xsd:int .
+    sso:hasTotalPopulation 7259 .
 
 ssr:Torrenova a sso:Comune ;
     sso:hasName "Torrenova"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "4492"^^xsd:int .
+    sso:hasTotalPopulation 4492 .
 
 ssr:Torretta a sso:Comune ;
     sso:hasName "Torretta"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "4278"^^xsd:int .
+    sso:hasTotalPopulation 4278 .
 
 ssr:Tortorici a sso:Comune ;
     sso:hasName "Tortorici"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "5705"^^xsd:int .
+    sso:hasTotalPopulation 5705 .
 
 ssr:Trabia a sso:Comune ;
     sso:hasName "Trabia"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "10561"^^xsd:int .
+    sso:hasTotalPopulation 10561 .
 
 ssr:Trapani a sso:Comune ;
     sso:hasName "Trapani"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "55559"^^xsd:int .
+    sso:hasTotalPopulation 55559 .
 
 ssr:Trappeto a sso:Comune ;
     sso:hasName "Trappeto"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "3058"^^xsd:int .
+    sso:hasTotalPopulation 3058 .
 
 ssr:Trecastagni a sso:Comune ;
     sso:hasName "Trecastagni"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "11265"^^xsd:int .
+    sso:hasTotalPopulation 11265 .
 
 ssr:Tremestieri_Etneo a sso:Comune ;
     sso:hasName "Tremestieri Etneo"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "19557"^^xsd:int .
+    sso:hasTotalPopulation 19557 .
 
 ssr:Tripi a sso:Comune ;
     sso:hasName "Tripi"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "750"^^xsd:int .
+    sso:hasTotalPopulation 750 .
 
 ssr:Troina a sso:Comune ;
     sso:hasName "Troina"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "8550"^^xsd:int .
+    sso:hasTotalPopulation 8550 .
 
 ssr:Tusa a sso:Comune ;
     sso:hasName "Tusa"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "2585"^^xsd:int .
+    sso:hasTotalPopulation 2585 .
 
 ssr:Ucria a sso:Comune ;
     sso:hasName "Ucria"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "908"^^xsd:int .
+    sso:hasTotalPopulation 908 .
 
 ssr:Ustica a sso:Comune ;
     sso:hasName "Ustica"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1311"^^xsd:int .
+    sso:hasTotalPopulation 1311 .
 
 ssr:Valderice a sso:Comune ;
     sso:hasName "Valderice"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "11480"^^xsd:int .
+    sso:hasTotalPopulation 11480 .
 
 ssr:Valdina a sso:Comune ;
     sso:hasName "Valdina"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "1257"^^xsd:int .
+    sso:hasTotalPopulation 1257 .
 
 ssr:Valguarnera_Caropepe a sso:Comune ;
     sso:hasName "Valguarnera Caropepe"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "6961"^^xsd:int .
+    sso:hasTotalPopulation 6961 .
 
 ssr:Valledolmo a sso:Comune ;
     sso:hasName "Valledolmo"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "3174"^^xsd:int .
+    sso:hasTotalPopulation 3174 .
 
 ssr:Vallelunga_Pratameno a sso:Comune ;
     sso:hasName "Vallelunga Pratameno"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "3113"^^xsd:int .
+    sso:hasTotalPopulation 3113 .
 
 ssr:Valverde a sso:Comune ;
     sso:hasName "Valverde"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "7824"^^xsd:int .
+    sso:hasTotalPopulation 7824 .
 
 ssr:Venetico a sso:Comune ;
     sso:hasName "Venetico"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "3940"^^xsd:int .
+    sso:hasTotalPopulation 3940 .
 
 ssr:Ventimiglia_Di_Sicilia a sso:Comune ;
     sso:hasName "Ventimiglia Di Sicilia"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "1824"^^xsd:int .
+    sso:hasTotalPopulation 1824 .
 
 ssr:Viagrande a sso:Comune ;
     sso:hasName "Viagrande"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "8861"^^xsd:int .
+    sso:hasTotalPopulation 8861 .
 
 ssr:Vicari a sso:Comune ;
     sso:hasName "Vicari"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "2440"^^xsd:int .
+    sso:hasTotalPopulation 2440 .
 
 ssr:Villabate a sso:Comune ;
     sso:hasName "Villabate"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "19634"^^xsd:int .
+    sso:hasTotalPopulation 19634 .
 
 ssr:Villafranca_Sicula a sso:Comune ;
     sso:hasName "Villafranca Sicula"^^xsd:string ;
     sso:hasProvince "AGRIGENTO"^^xsd:string ;
     sso:hasProvinceAcr "AG"^^xsd:string ;
-    sso:hasTotalPopulation "1332"^^xsd:int .
+    sso:hasTotalPopulation 1332 .
 
 ssr:Villafranca_Tirrena a sso:Comune ;
     sso:hasName "Villafranca Tirrena"^^xsd:string ;
     sso:hasProvince "MESSINA"^^xsd:string ;
     sso:hasProvinceAcr "ME"^^xsd:string ;
-    sso:hasTotalPopulation "8035"^^xsd:int .
+    sso:hasTotalPopulation 8035 .
 
 ssr:Villafrati a sso:Comune ;
     sso:hasName "Villafrati"^^xsd:string ;
     sso:hasProvince "PALERMO"^^xsd:string ;
     sso:hasProvinceAcr "PA"^^xsd:string ;
-    sso:hasTotalPopulation "3107"^^xsd:int .
+    sso:hasTotalPopulation 3107 .
 
 ssr:Villalba a sso:Comune ;
     sso:hasName "Villalba"^^xsd:string ;
     sso:hasProvince "CALTANISSETTA"^^xsd:string ;
     sso:hasProvinceAcr "CL"^^xsd:string ;
-    sso:hasTotalPopulation "1407"^^xsd:int .
+    sso:hasTotalPopulation 1407 .
 
 ssr:Villarosa a sso:Comune ;
     sso:hasName "Villarosa"^^xsd:string ;
     sso:hasProvince "ENNA"^^xsd:string ;
     sso:hasProvinceAcr "EN"^^xsd:string ;
-    sso:hasTotalPopulation "4377"^^xsd:int .
+    sso:hasTotalPopulation 4377 .
 
 ssr:Vita a sso:Comune ;
     sso:hasName "Vita"^^xsd:string ;
     sso:hasProvince "TRAPANI"^^xsd:string ;
     sso:hasProvinceAcr "TP"^^xsd:string ;
-    sso:hasTotalPopulation "1813"^^xsd:int .
+    sso:hasTotalPopulation 1813 .
 
 ssr:Vittoria a sso:Comune ;
     sso:hasName "Vittoria"^^xsd:string ;
     sso:hasProvince "RAGUSA"^^xsd:string ;
     sso:hasProvinceAcr "RG"^^xsd:string ;
-    sso:hasTotalPopulation "63316"^^xsd:int .
+    sso:hasTotalPopulation 63316 .
 
 ssr:Vizzini a sso:Comune ;
     sso:hasName "Vizzini"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "5702"^^xsd:int .
+    sso:hasTotalPopulation 5702 .
 
 ssr:Zafferana_Etnea a sso:Comune ;
     sso:hasName "Zafferana Etnea"^^xsd:string ;
     sso:hasProvince "CATANIA"^^xsd:string ;
     sso:hasProvinceAcr "CT"^^xsd:string ;
-    sso:hasTotalPopulation "9324"^^xsd:int .
+    sso:hasTotalPopulation 9324 .
 
