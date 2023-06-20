@@ -22,12 +22,6 @@
 #    Data properties
 #################################################################
 
-###  http://www.sanitasicilia.it/ontology#workingMonths
-:workingMonths rdf:type owl:DatatypeProperty ;
-               rdfs:domain :StrutturaPubblica ;
-               rdfs:range xsd:integer .
-
-
 ###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/businessType
 :businessType rdf:type owl:DatatypeProperty ;
               rdfs:domain :StrutturaSanitaria ;
@@ -113,6 +107,11 @@
                  rdfs:range xsd:string .
 
 
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasSite
+:hasSite rdf:type owl:DatatypeProperty ;
+         rdfs:domain :AziendaSanitaria .
+
+
 ###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasSiteType
 :hasSiteType rdf:type owl:DatatypeProperty ;
              rdfs:domain :StrutturaSanitaria ;
@@ -151,10 +150,22 @@
              rdfs:range xsd:int .
 
 
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/tipology
+:tipology rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Farmacia ;
+          rdfs:range xsd:string .
+
+
 ###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/weeklyHours
 :weeklyHours rdf:type owl:DatatypeProperty ;
              rdfs:domain :StrutturaPubblica ;
              rdfs:range xsd:int .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/workingMonths
+:workingMonths rdf:type owl:DatatypeProperty ;
+               rdfs:domain :StrutturaPubblica ;
+               rdfs:range xsd:integer .
 
 
 #################################################################
