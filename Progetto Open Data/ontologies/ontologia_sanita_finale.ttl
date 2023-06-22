@@ -126,8 +126,7 @@
 
 ###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasVatNumber
 :hasVatNumber rdf:type owl:DatatypeProperty ;
-              rdfs:domain :Farmacia ,
-                          :Parafarmacia ,
+              rdfs:domain :NegozioSanitario ,
                           :StrutturaPubblica ;
               rdfs:range xsd:integer .
 
