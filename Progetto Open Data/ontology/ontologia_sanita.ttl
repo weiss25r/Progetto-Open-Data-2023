@@ -1,0 +1,212 @@
+@prefix : <http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/> .
+
+<http://www.sanitasicilia.it/ontology> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/isIn
+:isIn rdf:type owl:ObjectProperty ;
+      rdfs:domain :AziendaSanitaria ;
+      rdfs:range :Comune .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/businessType
+:businessType rdf:type owl:DatatypeProperty ;
+              rdfs:domain :StrutturaSanitaria ;
+              rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasAddress
+:hasAddress rdf:type owl:DatatypeProperty ;
+            rdfs:domain :AziendaSanitaria ;
+            rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasCap
+:hasCap rdf:type owl:DatatypeProperty ;
+        rdfs:domain :AziendaSanitaria ;
+        rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasEmail
+:hasEmail rdf:type owl:DatatypeProperty ;
+          rdfs:domain :StrutturaPubblica ;
+          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasFaxNumber
+:hasFaxNumber rdf:type owl:DatatypeProperty ;
+              rdfs:domain :StrutturaPubblica ;
+              rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasFaxPrefix
+:hasFaxPrefix rdf:type owl:DatatypeProperty ;
+              rdfs:domain :StrutturaPubblica ;
+              rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasLatitude
+:hasLatitude rdf:type owl:DatatypeProperty ;
+             rdfs:domain :AziendaSanitaria ;
+             rdfs:range xsd:decimal .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasLongitude
+:hasLongitude rdf:type owl:DatatypeProperty ;
+              rdfs:domain :AziendaSanitaria ;
+              rdfs:range xsd:decimal .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasName
+:hasName rdf:type owl:DatatypeProperty ;
+         rdfs:domain :AziendaSanitaria ,
+                     :Comune ;
+         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasPhoneNumber
+:hasPhoneNumber rdf:type owl:DatatypeProperty ;
+                rdfs:domain :StrutturaPubblica ;
+                rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasPhonePrefix
+:hasPhonePrefix rdf:type owl:DatatypeProperty ;
+                rdfs:domain :StrutturaPubblica ;
+                rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasProvince
+:hasProvince rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Comune ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasRecoveryStructureName
+:hasRecoveryStructureName rdf:type owl:DatatypeProperty ;
+                          rdfs:domain :StrutturaPubblica ;
+                          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasReferenceAsp
+:hasReferenceAsp rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :StrutturaPubblica ;
+                 rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasSite
+:hasSite rdf:type owl:DatatypeProperty ;
+         rdfs:domain :AziendaSanitaria .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasSiteType
+:hasSiteType rdf:type owl:DatatypeProperty ;
+             rdfs:domain :StrutturaSanitaria ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasTotalPopulation
+:hasTotalPopulation rdf:type owl:DatatypeProperty ;
+                    rdfs:domain :Comune ;
+                    rdfs:range xsd:int .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasVatNumber
+:hasVatNumber rdf:type owl:DatatypeProperty ;
+              rdfs:domain :NegozioSanitario ,
+                          :StrutturaPubblica ;
+              rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/hasWebsite
+:hasWebsite rdf:type owl:DatatypeProperty ;
+            rdfs:domain :StrutturaPubblica ;
+            rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/isRecoveryStructure
+:isRecoveryStructure rdf:type owl:DatatypeProperty ;
+                     rdfs:domain :StrutturaPubblica ;
+                     rdfs:range xsd:boolean .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/openingDays
+:openingDays rdf:type owl:DatatypeProperty ;
+             rdfs:domain :StrutturaPubblica ;
+             rdfs:range xsd:int .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/tipology
+:tipology rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Farmacia ;
+          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/weeklyHours
+:weeklyHours rdf:type owl:DatatypeProperty ;
+             rdfs:domain :StrutturaPubblica ;
+             rdfs:range xsd:int .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/workingMonths
+:workingMonths rdf:type owl:DatatypeProperty ;
+               rdfs:domain :StrutturaPubblica ;
+               rdfs:range xsd:integer .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/AziendaSanitaria
+:AziendaSanitaria rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/Comune
+:Comune rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/Farmacia
+:Farmacia rdf:type owl:Class ;
+          rdfs:subClassOf :NegozioSanitario .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/NegozioSanitario
+:NegozioSanitario rdf:type owl:Class ;
+                  rdfs:subClassOf :AziendaSanitaria .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/Parafarmacia
+:Parafarmacia rdf:type owl:Class ;
+              rdfs:subClassOf :NegozioSanitario .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/StrutturaPrivata
+:StrutturaPrivata rdf:type owl:Class ;
+                  rdfs:subClassOf :StrutturaSanitaria .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/StrutturaPubblica
+:StrutturaPubblica rdf:type owl:Class ;
+                   rdfs:subClassOf :StrutturaSanitaria .
+
+
+###  http://www.semanticweb.org/raffaele/ontologies/2023/5/untitled-ontology-3/StrutturaSanitaria
+:StrutturaSanitaria rdf:type owl:Class ;
+                    rdfs:subClassOf :AziendaSanitaria .
+
+
+###  Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi
